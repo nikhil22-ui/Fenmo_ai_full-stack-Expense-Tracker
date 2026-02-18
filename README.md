@@ -2,7 +2,7 @@
 # Expense Management System using MERN Stack
 
 
-### Vercel Link: https://expense-tracker-app-three-beryl.vercel.app/
+###  Link: https://expense-tracker-app-three-beryl.vercel.app/
 
 ## Project Description:
 
